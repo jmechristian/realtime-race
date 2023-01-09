@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-realtimerace-staging-31736-authRole",
+      "UnauthRoleArn": "arn:aws:iam::552673436980:role/amplify-realtimerace-staging-31736-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::552673436980:role/amplify-realtimerace-staging-31736-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-realtimerace-staging-31736-deployment",
+      "UnauthRoleName": "amplify-realtimerace-staging-31736-unauthRole",
+      "StackName": "amplify-realtimerace-staging-31736",
+      "StackId": "arn:aws:cloudformation:us-east-1:552673436980:stack/amplify-realtimerace-staging-31736/0068dea0-8f03-11ed-9838-0aacd0dfbe33",
+      "AmplifyAppId": "d2f7nijzvb5gjt"
+    },
+    "categories": {
+      "auth": {
+        "realtimerace": {}
+      }
+    }
+  }
+}
